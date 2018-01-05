@@ -1,0 +1,15 @@
+Why use diff?
+	Shows the location of differences in code
+	which can reveal location of bug
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	Allows you to work backwards and find mistakes	
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	Pros: Allows for more usable changes to be tracked
+	Cons: User error prone
+How can you use the commands git log and git diff to view the history of files?
+	Use get log to find different versions
+	Use git diff to see changes between the two versions
+
+
+
+
